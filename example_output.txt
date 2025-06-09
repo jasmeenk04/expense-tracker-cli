@@ -1,0 +1,9 @@
+📄 All logged expenses:
+
+      date  amount category       description
+2025-06-08   15.99     food    Lunch at cafe
+2025-06-08   40.00 transport       Gas refill
+2025-06-09   8.50  beverage        Coffee run
+
+🧾 Total Spent: $64.49
+
